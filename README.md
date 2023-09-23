@@ -1,3 +1,3 @@
 # demo
 This is my first git repository.
-Author-Vijetha Hegde
+Author-Vijetha Hegde(college)
